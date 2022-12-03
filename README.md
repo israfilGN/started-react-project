@@ -1,3 +1,3 @@
-# React
+# React Projesi
 
-React öğrenilmesi ammacıyla yapılan bir projedir.
+React öğrenilmesi amacıyla yapılan bir projedir.
